@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.kb-wrapper {
+    text-align: center;
+}
+
+kbd {
+    border: 1px solid blueviolet;
+    text-transform: uppercase;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
